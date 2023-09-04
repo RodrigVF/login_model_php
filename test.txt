@@ -1,0 +1,7 @@
+criar usuario com 5 campos: id, nome, e-mail, usuario e senha
+
+criar pagina de cadastro
+
+criar pagina de login (utilizar usuario e senha para autenticar)
+
+criar pagina de dashboard (mostrar nome e e-mail)
